@@ -1,0 +1,8 @@
+IF condition THEN
+  statements;
+ELSE
+  alternative-statements;
+END IF;
+
+CREATE SEQUENCE typeroom_id_seq;
+ALTER TABLE typeroom ALTER COLUMN id SET DEFAULT nextval('typeroom_id_seq');

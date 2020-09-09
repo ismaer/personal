@@ -1,0 +1,19 @@
+-- =============================================
+-- Author:		Intergrupo S.A.
+-- Create date: Wed Ago 29 2019 15:30:02 GMT-0500 (GMT-05:00)
+-- Description:	Table users.
+-- =============================================
+
+DROP TABLE IF EXISTS users;
+DROP SEQUENCE IF EXISTS users_id_seq;
+CREATE sequence users_id_seq;
+CREATE TABLE public.users
+(
+    id integer NOT NULL DEFAULT nextval('users_id_seq'),
+    name character varying(50) NOT NULL,
+	email character varying(70) NOT NULL,
+    password character varying(125) NOT NULL,
+	created_at timestamp(0) without time zone,
+    updated_at timestamp(0) without time zone,
+    CONSTRAINT users_pkey PRIMARY KEY (id)
+)

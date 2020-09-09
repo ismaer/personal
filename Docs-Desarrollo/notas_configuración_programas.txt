@@ -1,0 +1,9 @@
+configurar el driver de conexion en el archivo .env
+DB_CONNECTION=pgsql
+
+descomentar las siguiientes lineaas
+	extension=pdo_pgsql	
+	extension=pgsql
+
+ALTER TABLE accommodation ALTER COLUMN created_at SET DATA TYPE timestamp(0) without time zone
+ALTER TABLE accommodation RENAME COLUMN update_at TO updated_at

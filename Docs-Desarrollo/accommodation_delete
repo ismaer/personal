@@ -1,0 +1,18 @@
+-- =============================================
+-- Author:		Intergrupo S.A.
+-- Create date: Wed Ago 29 2019 15:30:02 GMT-0500 (GMT-05:00)
+-- Description:	Function accommodation_delete.
+-- =============================================
+DROP FUNCTION IF EXISTS public.accommodation_delete;
+CREATE FUNCTION public.accommodation_delete(
+	id_acc integer)			
+    RETURNS void
+    LANGUAGE 'plpgsql'
+    
+AS $BODY$ BEGIN
+   DELETE 
+   FROM 
+        accommodation ac
+   WHERE 
+        ac.id = id_acc;
+END; $BODY$;

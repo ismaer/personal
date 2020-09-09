@@ -1,0 +1,22 @@
+-- ===============================================
+-- Author:		Intergrupo S.A.
+-- Create date: Wed Ago 29 2019 15:30:02 GMT-0500 (GMT-05:00)
+-- Description:	Function accommodation_getlistbyid.
+-- ===============================================
+
+CREATE OR REPLACE FUNCTION public.accommodation_getlistbyid(
+	x integer)
+    RETURNS TABLE(id integer, names character varying, active boolean) 
+    LANGUAGE 'plpgsql'
+AS $BODY$ BEGIN
+   RETURN QUERY SELECT
+      ac.id,
+	  ac.name,
+	  ac.active
+   FROM
+      accommodation ac
+   WHERE 
+   	  ac.id = x;
+END; $BODY$;
+
+

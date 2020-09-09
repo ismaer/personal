@@ -1,0 +1,20 @@
+-- Response API
+{
+    resultTransaction: {
+        code: 200,
+        message: "string",
+        idTransactionCode: "string",
+        rowsAffected: 0
+    },
+    resultData: [
+        {},
+        {},
+        {},
+        {}
+    ]
+    authorization: {
+        tokenType: "string",
+        accessToken: "string",
+        expiration: "2019-08-29T20:18:59.638Z"
+    }
+}

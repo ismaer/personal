@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------------------
+DROP FUNCTION IF EXISTS public.accommodation_update;
+CREATE OR REPLACE FUNCTION public.accommodation_update(IN id_acc int, IN act boolean DEFAULT false, IN name_acc character varying DEFAULT '')
+
+RETURNS VOID
+LANGUAGE 'plpgsql'
+AS $$ BEGIN
+   IF name_acc = '' THEN
+    UPDATE accommodation ac
+    SET active = act
+    WHERE 
+		ac.id = id_acc;
+   ELSE
+     UPDATE accommodation ac
+	 SET name = name_acc,
+		active = act
+     WHERE 
+        ac.id = id_acc;
+   END IF;   
+ END; $$;
+ 
+ -------------------------------------------------------------------------------------------------------
+ 
+DROP FUNCTION IF EXISTS public.accommodation_update;
+CREATE OR REPLACE FUNCTION public.accommodation_update(IN id_acc int, IN act boolean DEFAULT false, IN name_acc character varying DEFAULT '')
+
+RETURNS VOID
+LANGUAGE 'plpgsql'
+AS $$ BEGIN
+    UPDATE accommodation ac
+    SET active = act
+		WHERE 
+		ac.id = id_acc;
+END; $$;
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+DROP FUNCTION IF EXISTS public.accommodation_update;
+CREATE OR REPLACE FUNCTION public.accommodation_update(IN id_acc int, IN act boolean DEFAULT false, IN name_acc character varying DEFAULT '')
+
+RETURNS VOID
+LANGUAGE 'plpgsql'
+AS $$ BEGIN
+RETURN QUERY EXECUTE
+    UPDATE accommodation ac
+    SET active = act
+    WHERE 
+		ac.id = id_acc;
+   ELSE
+     UPDATE accommodation ac
+	 SET name = name_acc,
+		active = act
+     WHERE 
+        ac.id = id_acc;
+   END IF;   
+ END; $$;
+
+
+
+
+ 
+	

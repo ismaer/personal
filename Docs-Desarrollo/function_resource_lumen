@@ -1,0 +1,21 @@
+/**
+     * Register a resource with the application.
+     *
+     * @param  string  $uri
+     * @param  mixed  $controller
+     * @return $this
+     */
+    public function resource($uri, $controller)
+    {  
+        $this->get($uri, $controller.'@showAll');
+        $this->get($uri.'/create', 'App\Http\Controllers\\'.$controller.'@create');
+        $this->post($uri, $controller.'@store');
+        $this->get($uri.'/{id}', $controller.'@show');
+        $this->get($uri.'/{id}/edit', 'App\Http\Controllers\\'.$controller.'@edit');
+        $this->put($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@update');
+        $this->patch($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@update');
+        $this->delete($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@destroy');
+   
+        return $this;
+    }
+

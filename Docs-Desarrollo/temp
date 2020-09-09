@@ -1,0 +1,353 @@
+[{
+      "medicamentoEnt": {
+        "nombre": "<br/>"
+      },
+      "fecha": "2019-05-30T00:00:00",
+      "borderStyle":"",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR TRABAJO S",
+      "codigoCupsServicio": "890309",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "953F1129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "<br/>"
+      },
+      "fecha": "2019-05-17T00:00:00",
+      "borderStyle": "",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR NUTRICION",
+      "codigoCupsServicio": "890306",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "F63A1129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Vacuna - antigripal - virus inactivados de influen<br/>Vacuna - antigripal - virus inactivados de influen",
+        "dosis": "1 ampolla ",
+        "presentacion": "Vacuna - antigripal - virus inactivados de influen",
+        "cantidadTiempo": "1",
+        "codigoMedicamentos": "J07BB01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Omeprazol Cápsulas* 20 mg<br/>Omeprazol Cápsulas* 20 mg",
+        "dosis": "1 en ayunas ",
+        "presentacion": "Omeprazol Cápsulas* 20 mg",
+        "cantidadTiempo": "28",
+        "codigoMedicamentos": "A02BC01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Eritropoyetina Sol.Inyectable 4000 UI<br/>Eritropoyetina Sol.Inyectable 4000 UI",
+        "dosis": "4000 ud  quincenal",
+        "presentacion": "Eritropoyetina Sol.Inyectable 4000 UI",
+        "cantidadTiempo": "2",
+        "codigoMedicamentos": "B03XA01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Calcio carbonato Tabletas 1500 mg equivalente a 60<br/>Calcio carbonato Tabletas 1500 mg equivalente a 60",
+        "dosis": "3 tableta cada 8h",
+        "presentacion": "Calcio carbonato Tabletas 1500 mg equivalente a 60",
+        "cantidadTiempo": "90",
+        "codigoMedicamentos": "A12AA04"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Acetaminofen Tabletas 500 mg <br/>Acetaminofen Tabletas 500 mg ",
+        "dosis": "Tomar 2 dia",
+        "presentacion": "Acetaminofen Tabletas 500 mg ",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "N02BE01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Acetaminofen Tabletas 500 mg <br/>Acetaminofen Tabletas 500 mg ",
+        "dosis": "Tomar 2 dia",
+        "presentacion": "Acetaminofen Tabletas 500 mg ",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "N02BE01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Prazosina Tabletas 1 mg<br/>Prazosina Tabletas 1 mg",
+        "dosis": "TOMAR 1 TABLETA CADA 12 HORAS",
+        "presentacion": "Prazosina Tabletas 1 mg",
+        "cantidadTiempo": "60",
+        "codigoMedicamentos": "C02CP026011"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Amlodipino Tabletas 10 mg<br/>Amlodipino Tabletas 10 mg",
+        "dosis": "tomar 1 tableta al dia ",
+        "presentacion": "Amlodipino Tabletas 10 mg",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "C08CA01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Metoprolol Tabletas 50 mg.<br/>Metoprolol Tabletas 50 mg.",
+        "dosis": "1 tab cada 12h",
+        "presentacion": "Metoprolol Tabletas 50 mg.",
+        "cantidadTiempo": "60",
+        "codigoMedicamentos": "C07AB02"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "0D371129-CB87-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Acetaminofen Tabletas 500 mg <br/>Acetaminofen Tabletas 500 mg ",
+        "dosis": "Tomar 2 dia",
+        "presentacion": "Acetaminofen Tabletas 500 mg ",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "N02BE01"
+      },
+      "fecha": "2019-04-24T00:00:00",
+      "borderStyle":"",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Calcio carbonato Tabletas 1500 mg equivalente a 60<br/>Calcio carbonato Tabletas 1500 mg equivalente a 60",
+        "dosis": "3 tableta cada 8h",
+        "presentacion": "Calcio carbonato Tabletas 1500 mg equivalente a 60",
+        "cantidadTiempo": "90",
+        "codigoMedicamentos": "A12AA04"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Amlodipino Tabletas 10 mg<br/>Amlodipino Tabletas 10 mg",
+        "dosis": "tomar 1 tableta al dia ",
+        "presentacion": "Amlodipino Tabletas 10 mg",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "C08CA01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Amlodipino Tabletas 10 mg<br/>Amlodipino Tabletas 10 mg",
+        "dosis": "tomar 1 tableta al dia ",
+        "presentacion": "Amlodipino Tabletas 10 mg",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "C08CA01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Prazosina Tabletas 1 mg<br/>Prazosina Tabletas 1 mg",
+        "dosis": "TOMAR 1 TABLETA CADA 12 HORAS",
+        "presentacion": "Prazosina Tabletas 1 mg",
+        "cantidadTiempo": "60",
+        "codigoMedicamentos": "C02CP026011"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Aluminio hidroxido 6% suspensión oral Susp.oral 6 <br/>Aluminio hidroxido 6% suspensión oral Susp.oral 6 ",
+        "dosis": "1 cucharada cada 8 horas",
+        "presentacion": "Aluminio hidroxido 6% suspensión oral Susp.oral 6 ",
+        "cantidadTiempo": "2",
+        "codigoMedicamentos": "A02AB01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Metoprolol Tabletas 50 mg.<br/>Metoprolol Tabletas 50 mg.",
+        "dosis": "1 tab cada 12h",
+        "presentacion": "Metoprolol Tabletas 50 mg.",
+        "cantidadTiempo": "60",
+        "codigoMedicamentos": "C07AB02"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Acetaminofen Tabletas 500 mg <br/>Acetaminofen Tabletas 500 mg ",
+        "dosis": "Tomar 2 dia",
+        "presentacion": "Acetaminofen Tabletas 500 mg ",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "N02BE01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Calcio carbonato Tabletas 1500 mg equivalente a 60<br/>Calcio carbonato Tabletas 1500 mg equivalente a 60",
+        "dosis": "3 tableta cada 8h",
+        "presentacion": "Calcio carbonato Tabletas 1500 mg equivalente a 60",
+        "cantidadTiempo": "90",
+        "codigoMedicamentos": "A12AA04"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Amlodipino Tabletas 10 mg<br/>Amlodipino Tabletas 10 mg",
+        "dosis": "tomar 1 tableta al dia ",
+        "presentacion": "Amlodipino Tabletas 10 mg",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "C08CA01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Amlodipino Tabletas 10 mg<br/>Amlodipino Tabletas 10 mg",
+        "dosis": "tomar 1 tableta al dia ",
+        "presentacion": "Amlodipino Tabletas 10 mg",
+        "cantidadTiempo": "30",
+        "codigoMedicamentos": "C08CA01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Prazosina Tabletas 1 mg<br/>Prazosina Tabletas 1 mg",
+        "dosis": "TOMAR 1 TABLETA CADA 12 HORAS",
+        "presentacion": "Prazosina Tabletas 1 mg",
+        "cantidadTiempo": "60",
+        "codigoMedicamentos": "C02CP026011"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Aluminio hidroxido 6% suspensión oral Susp.oral 6 <br/>Aluminio hidroxido 6% suspensión oral Susp.oral 6 ",
+        "dosis": "1 cucharada cada 8 horas",
+        "presentacion": "Aluminio hidroxido 6% suspensión oral Susp.oral 6 ",
+        "cantidadTiempo": "2",
+        "codigoMedicamentos": "A02AB01"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "Metoprolol Tabletas 50 mg.<br/>Metoprolol Tabletas 50 mg.",
+        "dosis": "1 tab cada 12h",
+        "presentacion": "Metoprolol Tabletas 50 mg.",
+        "cantidadTiempo": "60",
+        "codigoMedicamentos": "C07AB02"
+      },
+      "fecha": "",
+      "borderStyle":"0",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR MEDICINA ",
+      "codigoCupsServicio": "890302",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "4075C650-1A6E-E911-BE8C-005056BF06E2"
+    }, {
+      "medicamentoEnt": {
+        "nombre": "<br/>"
+      },
+      "fecha": "2019-03-20T00:00:00",
+      "borderStyle":"",
+      "servicio": "CONSULTA DE CONTROL O DE SEGUIMIENTO POR NUTRICION",
+      "codigoCupsServicio": "890306",
+      "diagnosticoPrincipal": "180 - INSUFICIENCIA RENAL TERMINAL",
+      "iDTablaMedicamentos": "F8F2E70D-9B68-E911-BE8C-005056BF06E2"
+    }];

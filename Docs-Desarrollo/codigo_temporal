@@ -1,0 +1,9 @@
+saveReset() {
+    swal.fire(
+      'Almacenamiento exitoso',
+      'Se ha guardado la información correctamente',
+      'success'
+    );
+    this.mainObjectEstadoProyecto.description = '';
+    this.mainObjectEstadoProyecto.abbreviation = '';
+  }
